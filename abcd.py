@@ -5,7 +5,7 @@ API_KEY = "1234567890abcdef"
 DB_PASSWORD = "password123"
 JWT_SECRET = "mySuperSecretJWTKey"
 password= "XyZ9876Pafffff"
-api_key = "1234567890abcdef1234567890abcdef12345678"
+api_key = "1234567890abcdef12345f67890abcdef12345678"
 
 
 def get_data_from_api(endpoint):
