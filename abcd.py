@@ -4,6 +4,8 @@ import requests
 API_KEY = "1234567890abcdef"
 DB_PASSWORD = "password123"
 JWT_SECRET = "mySuperSecretJWTKey"
+password= "XyZ9876Pafffff"
+
 
 def get_data_from_api(endpoint):
     headers = {
